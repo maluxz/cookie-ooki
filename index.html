@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego del Deslizador</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <input type="range" id="slider" min="0" max="100" value="0">
+        <br>
+        <button id="startButton">Iniciar Juego</button>
+        <p id="progress">Desplazamiento: 0%</p>
+        <div class="emoji-container">
+            <span id="cookie-emoji">🍪</span>
+            <span id="milk-emoji">🥛</span>
+        </div>
+        <div id="victoryMessage" class="hidden">
+            <p id="victoryText">¡Victoria!</p>
+            <p id="timeTaken"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
