@@ -16,16 +16,6 @@ Welcome to the **Cookie Ookie Simulator**! This is an interactive browser-based 
 3. **Drag the slider along the line** to increase your movement.
 4. **When you reach the movement goal**, a victory message will appear with the time it took you to win.
 
-## Installation
-
-No installation is required to play this game. Simply open the HTML file in your web browser.
-
-### Steps to Run
-
-1. **Download or clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
-
 
 # Simulador de Cookie Ookie (Spanish)
 
@@ -45,12 +35,3 @@ No installation is required to play this game. Simply open the HTML file in your
 3. **Arrastra el eslider a lo largo de la linea** para aumentar tu desplazamiento.
 4. **Cuando hayas alcanzado el objetivo de desplazamiento**, se mostrará un mensaje de victoria con el tiempo que tardaste en ganar.
 
-## Instalación
-
-No necesitas instalar nada para jugar a este juego. Simplemente abre el archivo HTML en tu navegador.
-
-### Pasos para Ejecutar
-
-1. **Descarga o clona el repositorio**:
-   ```bash
-   git clone https://github.com/tuusuario/nombre-del-repositorio.git
